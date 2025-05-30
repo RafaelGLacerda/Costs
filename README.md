@@ -4,7 +4,7 @@ O **COSTS** é um sistema completo de **gerenciamento de projetos**, desenvolvid
 
 ## 🔗 Link do Projeto
 
-Acesse: [https://github.com/RafaelGLacerda/Costs](https://github.com/RafaelGLacerda/Costs)
+Acesse: https://costsservice.onrender.com/
 
 ## 🛠️ Funcionalidades
 
